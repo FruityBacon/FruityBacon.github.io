@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(89, 0, 133);
+}
+
+#face {
+    background-image: linear-gradient(rgba(255, 192, 220, 0.9), rgba(89, 0, 133, 0));
+    margin: 1vw;
+    padding: 10px 7px;
+}
