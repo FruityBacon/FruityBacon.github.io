@@ -73,16 +73,16 @@ header h1 {
 }
 
 #nav {
-    font-size: 3vh;
+    font-size: 1.5vw;
     line-height: 10vh;
     float:right;
     display: inline;
-    margin-right: 6vh;
+    margin-right: 3vw;
 }
 
 #nav a{
     font-family: 'SpaceMono-Bold';
-    padding-right: 4vh;
+    padding-right: 2vw;
     color:blanchedalmond;
     text-decoration: none;
     text-shadow: 0px 0px 7px rgb(89, 0, 133), 0px 0px 7px rgb(89, 0, 133), 0px 0px 7px rgb(89, 0, 133), 0px 0px 7px rgb(89, 0, 133);
