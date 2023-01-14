@@ -104,10 +104,15 @@ header h1 {
     font-weight: normal;
     font-style: normal;
 }
-.blog-article {
-     width: 750px;
-     background-color: rgba(255, 235, 205, 0.288);
+
+#face h3{
+    font-family: SpaceMono-Bold;
 }
+
+#face h2{
+    line-height: 10px;
+}
+
 .sidenav {
     width: 25vw;
     position: fixed;
